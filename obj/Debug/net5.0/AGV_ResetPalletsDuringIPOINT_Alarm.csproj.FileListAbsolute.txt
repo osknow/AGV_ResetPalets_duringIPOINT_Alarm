@@ -1,0 +1,16 @@
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.exe
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.deps.json
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.runtimeconfig.json
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.runtimeconfig.dev.json
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.dll
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\ref\AGV_ResetPalletsDuringIPOINT_Alarm.dll
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\bin\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.pdb
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.csproj.AssemblyReference.cache
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.GeneratedMSBuildEditorConfig.editorconfig
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.AssemblyInfoInputs.cache
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.AssemblyInfo.cs
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.csproj.CoreCompileInputs.cache
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.dll
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\ref\AGV_ResetPalletsDuringIPOINT_Alarm.dll
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.pdb
+\\pozfiler01\users$\osknow\Desktop\OSKNOW\Projekty\MVC_ASP_NET_C#\AGV_ResetPalletDuringIPOINT_alarm\AGV_ResetPalletsDuringIPOINT_Alarm\obj\Debug\net5.0\AGV_ResetPalletsDuringIPOINT_Alarm.genruntimeconfig.cache

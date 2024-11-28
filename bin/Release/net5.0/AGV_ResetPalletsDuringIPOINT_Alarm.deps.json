@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AGV_ResetPalletsDuringIPOINT_Alarm/1.0.0": {
+        "runtime": {
+          "AGV_ResetPalletsDuringIPOINT_Alarm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGV_ResetPalletsDuringIPOINT_Alarm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
