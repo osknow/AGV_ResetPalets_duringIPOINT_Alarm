@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\pozfiler01\\users$\\osknow\\Desktop\\OSKNOW\\Projekty\\MVC_ASP_NET_C#\\AGV_ResetPalletDuringIPOINT_alarm\\AGV_ResetPalletsDuringIPOINT_Alarm\\AGV_ResetPalletsDuringIPOINT_Alarm.csproj",
+      "projectUniqueName": "C:\\Users\\osknowpa\\AGV_ResetPalets_duringIPOINT_Alarm\\AGV_ResetPalletsDuringIPOINT_Alarm.csproj",
       "projectName": "AGV_ResetPalletsDuringIPOINT_Alarm",
-      "projectPath": "\\\\pozfiler01\\users$\\osknow\\Desktop\\OSKNOW\\Projekty\\MVC_ASP_NET_C#\\AGV_ResetPalletDuringIPOINT_alarm\\AGV_ResetPalletsDuringIPOINT_Alarm\\AGV_ResetPalletsDuringIPOINT_Alarm.csproj",
+      "projectPath": "C:\\Users\\osknowpa\\AGV_ResetPalets_duringIPOINT_Alarm\\AGV_ResetPalletsDuringIPOINT_Alarm.csproj",
       "packagesPath": "C:\\Users\\osknow\\.nuget\\packages\\",
-      "outputPath": "\\\\pozfiler01\\users$\\osknow\\Desktop\\OSKNOW\\Projekty\\MVC_ASP_NET_C#\\AGV_ResetPalletDuringIPOINT_alarm\\AGV_ResetPalletsDuringIPOINT_Alarm\\obj\\",
+      "outputPath": "C:\\Users\\osknowpa\\AGV_ResetPalets_duringIPOINT_Alarm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osknow\\AppData\\Roaming\\NuGet\\NuGet.Config",
